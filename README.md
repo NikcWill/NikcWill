@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NikcWill/NikcWill/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NikcWill/NikcWill/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
- </picture>
-
 [![Github](https://img.shields.io/github/followers/NikcWill?label=Follow&style=social)](https://github.com/Nikcwill)
 
 <div align="center">
@@ -19,9 +13,11 @@
   <br>
   <br>
   <br>
+  
   <div align="center">
   <a href="https://github.com/NikcWill"></a>
-  <picture>
+  
+   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=NikcWill&show_icons=true&theme=transparent" 
       media="(prefers-color-scheme: dark)"
@@ -44,6 +40,8 @@
     <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikcWill&layout=compact" />
   </picture>
 </div>
+  
+  
 <div align="center">
   <h1>🛠️Tech Stack</h1>
   <table>
