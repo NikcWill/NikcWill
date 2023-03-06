@@ -11,7 +11,7 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - main
+    - breanch
     
   
 
@@ -31,7 +31,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output main
+      - name: push github-contribution-grid-snake.svg to the output breanch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
